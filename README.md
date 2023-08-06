@@ -1,7 +1,7 @@
 
 <h1> Sejam bem-vindos!!!</h1>
 <h3>CONTEÚDO PROGRAMÁTICO EM INFORMÁTICA</h3>
-<h5> Repositorio criado para documentar todo o material utilizado durante as aulas de informatica básica. </h5> 
+<h5> Repositório criado para documentar todo o material utilizado durante as aulas de informática básica. </h5> 
 
 
 <h2> 🎯 Objetivo </h2>
