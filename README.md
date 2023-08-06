@@ -17,8 +17,8 @@ O curso prepara a criança para a utilização correta do computador, desde post
  <li> Criando ilustrações para trabalhos. <a href="https://"> Acessar </a> </li>
  <li> Produzindo trabalhos escolares no Word.<a href="https://"> Acessar </a> </li>
  <li> Apresentação de trabalhos com PowerPoint. <a href="https://"> Acessar </a> </li>
- <li> Básico de Informática para Crianças. <a href="https://"> Acessar </a> </li>
- <li> Internet - uso responsável para crianças. <a href="https://"> Acessar </a> </li>
+ <li> O Básico de Informática para Crianças. <a href="https://"> Acessar </a> </li>
+ <li> Internet - O uso responsável para crianças. <a href="https://"> Acessar </a> </li>
 </ul>
 
 
