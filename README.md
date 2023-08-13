@@ -4,6 +4,7 @@
 <h5> Repositório criado para documentar todo o material utilizado durante as aulas de informática básica. </h5> 
 
 
+
 <h2> 🎯 Objetivo </h2>
 Os objetivos tecnológicos nas aulas de informática na Educação Infantil priorizam desenvolver nos alunos atitudes corretas no uso do computador, onde os alunos apropriam-se das habilidades tecnológicas básicas e demonstram iniciativa e autonomia no uso do computador como meio de expressão e criatividade.
 
